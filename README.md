@@ -4,10 +4,11 @@
 
 **Android Memory Game**An open-source Android memory game. Play with the default icons, or play a custom game using photos from your phone. You can also download memory boards made by others by entering the game name.
 
-Time spent: **10** hours spent in total
 ![memory_new](https://user-images.githubusercontent.com/76764479/205566629-173c8954-933b-4472-ba3f-0989fc684e84.gif)
+![memory12](https://user-images.githubusercontent.com/76764479/205566935-3b28e37c-c0af-461a-a419-401000a57dac.gif)
 
 
+Time spent: **10** hours spent in total
 
 ## Functionality
 
